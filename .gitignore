@@ -2,4 +2,5 @@
 *.ilk
 SimpleModelRender/Debug
 SimpleModelRender/x64
+.vs
 
