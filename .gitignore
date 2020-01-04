@@ -1,0 +1,5 @@
+*.pdb
+*.ilk
+SimpleModelRender/Debug
+SimpleModelRender/x64
+
